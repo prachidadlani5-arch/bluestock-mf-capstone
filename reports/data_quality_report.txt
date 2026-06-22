@@ -1,0 +1,6 @@
+Day 1 Data Quality Report
+Checked all datasets using data_ingestion.py.
+Verified shape and datatypes.
+Fetched live NAV data for six schemes.
+Explored fund master dataset.
+Unique fund houses, categories, subcategories and risk grades were examined.
