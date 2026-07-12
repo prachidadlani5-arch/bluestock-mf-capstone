@@ -184,9 +184,9 @@ These results are consistent with expected risk-return patterns across market-ca
 
 ## 👤 Author
 
-**[Student Name]**
+**Prachi Dadlani**
 B.Tech, Computer Science & Engineering (AI & Data Science)
-📧 [student.email@example.com] · 🔗 [LinkedIn Profile] · 💻 [GitHub Profile]
+📧 prachidadlani5@gmail.com · 🔗 www.linkedin.com/in/prachi-dadlani-66436b315 · 💻 https://github.com/prachidadlani5-arch
 
 ---
 
